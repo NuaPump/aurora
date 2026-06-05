@@ -11,6 +11,7 @@
 6. AutoAccept и WaterMark
 7. Перевод на 10 языков (1. Английский, 2. Русский, 3. Немецкий, 4. Французский, 5. Испанский, 6. Португальский, 7. Турецкий, 8. Польский, 9. Украинский, 10. Китайский упрощенный)
 8. Конфиги
+
 С читом в игре:
 <img width="1920" height="1080" alt="aurora1" src="https://github.com/user-attachments/assets/86047b96-bb9d-40de-b625-b539b700d4f6" />
 <img width="1920" height="1080" alt="aurora2" src="https://github.com/user-attachments/assets/91d8c25f-fd97-406b-9e7f-a0a0b423a6d5" />
