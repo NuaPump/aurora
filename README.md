@@ -1,7 +1,11 @@
 !Aurora: Бесплатный легит чит для CS2 | Актуальная версия 4.2.1 Release
+
 Оф. тгк канал чита - https://t.me/cheat_auroracs2
+
 Сайт чита - http://auroracs2.ru/
+
 Скачать актуальную версию лаунчера - http://auroracs2.ru/download.html
+
 Функции в чите:
 1. AntiFlash
 2. Glow
@@ -19,4 +23,5 @@
 <img width="1920" height="1080" alt="aurora4" src="https://github.com/user-attachments/assets/7cd44f4c-266d-42ac-9fef-be93ed3eb94c" />
 <img width="1920" height="1080" alt="aurora5" src="https://github.com/user-attachments/assets/5103e0bb-36a6-4ad2-a490-a9bfbfc8706b" />
 <img width="1920" height="1080" alt="aurora6" src="https://github.com/user-attachments/assets/94caf9ea-9c65-40a7-bce9-eb44c4f4795a" />
+
 А еще, это то самое место, откуда качаются версии чита в Aurora Launcher :)
