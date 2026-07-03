@@ -2,9 +2,9 @@
 
 Оф. тгк канал чита - https://t.me/cheat_auroracs2
 
-Сайт чита - http://auroracs2.ru/
+Сайт чита - https://auroracs2.ru/
 
-Скачать актуальную версию лаунчера - http://auroracs2.ru/download.html
+Скачать актуальную версию лаунчера - https://auroracs2.ru/download.html
 
 Функции в чите:
 1. AntiFlash
